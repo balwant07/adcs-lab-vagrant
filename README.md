@@ -3,8 +3,7 @@
 
 
 Overview: 
-
-The goal of this repo is to create an ADCS lab for learning or test and research purpose. For setup We will use vagrant with Oracle virtualbox. 
+The goal of this repo is to create an ADCS lab for learning or test and research purpose. For setup we will use vagrant with Oracle virtualbox. 
 
 
 
@@ -12,10 +11,7 @@ The goal of this repo is to create an ADCS lab for learning or test and research
 
 Pre-requisites:
 
-
-
 Have Oracle VirtualBox installed.
-
 Have Vagrant installed and added in the path.
 
 
